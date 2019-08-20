@@ -3,7 +3,7 @@ package:
   version: "4.5"
 
 source:
-  git_url: https://github.com/jejabour/adhtesting.git
+  git_url: https://github.com/jejabour/adhtestingrevised.git
 
 target_platform:
   - win-64
@@ -14,4 +14,4 @@ requirements:
 
 
 about:
-  home: https://github.com/erdc/roamsADH
+  home: https://github.com/jejabour/adhtestingrevised
