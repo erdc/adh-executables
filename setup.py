@@ -1,8 +1,8 @@
 from setuptools import setup
 
 setup(
-    name='adh_v45_mul',
-    version='4.5',
+    name='adh_v46_win64',
+    version='4.6',
     packages=[],
     data_files=[('Lib/site-packages/adh_v46_x64', ['adh_V4.6x64.exe']),
                 ('Lib/site-packages/adh_v46_x64', ['pre_adh_V4.6x64.exe'])],
